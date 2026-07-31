@@ -1,0 +1,8 @@
+{
+  "name": "boda-andy-david",
+  "compatibility_date": "2026-07-31",
+  // Worker sin código: solo sirve los archivos estáticos de _site/
+  "assets": {
+    "directory": "./_site"
+  }
+}
